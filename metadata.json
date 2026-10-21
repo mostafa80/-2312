@@ -1,0 +1,6 @@
+{
+  "name": "ميزان الشيتات — منظم الإكسيل الذكي للشركات",
+  "description": "برنامج ذكي وسريع لتنظيم وترتيب شيتات الإكسيل المجمعة لعدة شركات، حذف المطابق والفارق الصفري تلقائياً، وتنفيذ الأوامر الكتابية بدقة عالية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
